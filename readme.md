@@ -1,0 +1,1 @@
+[![Deploy](https://github.com/eepagoada/paginaprueba/actions/workflows/deploy.yml/badge.svg?event=status)](https://github.com/eepagoada/paginaprueba/actions/workflows/deploy.yml)
